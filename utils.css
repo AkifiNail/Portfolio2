@@ -1,0 +1,34 @@
+.f {
+    display: flex;
+}
+
+
+.f-jc {
+    justify-content: center;
+}
+
+.f-jsa {
+    justify-content: space-around;
+}
+
+.f-jsb {
+    justify-content: space-between;
+}
+
+.f-a {
+    align-items: center;
+}
+
+.f-w {
+    flex-wrap: nowrap;
+}
+
+
+.f-c {
+    flex-direction: column;
+}
+
+
+.f-r {
+    flex-direction: row;
+}
